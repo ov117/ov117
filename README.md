@@ -1,2 +1,4 @@
-This is my testing repository.
-I'm just using it to show people little test sites and things I've made!
+- 👋 Hi, I’m @ov117
+- 👀 I’m interested in: learning! Mainly about how the world works and how I can make it a better place!
+- 🌱 I’m currently learning: GitHub!, JavaScript(always), MySQL, how to self-host, and most importantly, confidence! xD
+- 📫 You can reach me on Twitter @ov117
